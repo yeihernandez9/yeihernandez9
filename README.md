@@ -40,6 +40,7 @@ I am a results-driven **Senior Software Engineer** with over 10 years of experie
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeihernandez9&theme=nightowl)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeihernandez9&layout=compact&theme=radical)
 
 ---
 
