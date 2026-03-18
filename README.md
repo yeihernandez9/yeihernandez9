@@ -45,4 +45,4 @@ I am a results-driven **Senior Software Engineer** with over 10 years of experie
 ---
 
 ### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yeison-andres-hernand%C3%A9z-montoya-b1568a71/)
