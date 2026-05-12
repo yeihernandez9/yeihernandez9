@@ -1,13 +1,27 @@
 # Hi there, I'm Yeison Hernández 👋
 
-### Senior Software Engineer | Full Stack Developer | Blockchain Enthusiast
+### Senior Full-Stack Developer | BPMN Automation | Blockchain | NestJS · React · Java
 
-I am a results-driven **Senior Software Engineer** with over 10 years of experience building scalable, high-quality software solutions. My expertise spans across the financial, e-commerce, and blockchain sectors, always focusing on **Clean Architecture**, **SOLID principles**, and **performance optimization**.
+I'm a **Senior Software Engineer** from Medellín, Colombia, with 10+ years of experience building enterprise-grade software. I specialize in **business process automation (BPMN)**, **document management systems**, and **Web3/Blockchain** solutions — always applying Clean Architecture and SOLID principles.
 
-- 🔭 I’m currently working on **Enterprise Payroll Systems** and **Web3 solutions**.
-- 🌱 I’m constantly refining my skills in **Cloud Native Architectures** and **Advanced DevOps**.
-- 💬 Ask me about **Microservices, NestJS, .NET Core, or Solidity**.
-- 📫 How to reach me: [yeihernandez9@gmail.com](mailto:yeihernandez9@gmail.com)
+- 🔭 Currently building **BPMN automation systems** and **Web3 dApps**
+- 💼 Open for freelance projects and long-term contracts
+- 🌍 Based in **Medellín, Colombia** — working with clients worldwide
+- 💬 Ask me about **BPMN, NestJS, Microservices, .NET Core, or Solidity**
+- 🌐 Portfolio: [theja.com.co](https://theja.com.co)
+- 📫 Reach me: [yeihernandez9@gmail.com](mailto:yeihernandez9@gmail.com)
+
+---
+
+### 🎯 What I Build
+
+| Area | Description |
+|---|---|
+| ⚙️ **BPMN Automation** | Business process design and automation with BPMN 2.0 |
+| 📄 **Document Management** | SGED systems with full traceability and version control |
+| 🏛️ **Filing Platforms** | Single-window filing for public and private entities |
+| ⛓️ **Blockchain / Web3** | Smart contracts (ERC-20, ERC-721), dApps, DeFi |
+| 🖥️ **Full-Stack Apps** | Web and mobile applications from scratch |
 
 ---
 
@@ -35,6 +49,7 @@ I am a results-driven **Senior Software Engineer** with over 10 years of experie
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -46,3 +61,4 @@ I am a results-driven **Senior Software Engineer** with over 10 years of experie
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yeison-andres-hernand%C3%A9z-montoya-b1568a71/)
+[<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" />](https://theja.com.co)
